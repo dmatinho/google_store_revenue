@@ -4,3 +4,5 @@ This repository contains:
 1. Python: data import with pickels
 2. Python: data cleaning, feature engineering and modeling
 3. PDF: step by step of the project
+
+## Group Project for Data Mining class developed with Carrie Lu, Daniela Matinho (myself), Hannah Kerr, and Yuling Gu
